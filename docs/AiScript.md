@@ -35,18 +35,21 @@ loop {
 <: `{a}`  // 5
 ```
 
-# 3. 내장 함수
+# 3. 내장 함수 및 변수
 
-## 3.1 기본 내장 함수
+## 3.1 기본 내장 함수 및 변수
 
 ### 3.1.1 Core
 
+* ✨ [Core:v](Core:v.md)
+* 📥 [Core:type](Core:type.md)
+
 ## 3.2 Misskey에서 사용할 수 있는 내장 함수 및 변수
 
-* [USER_ID](AS_USER_ID(AiScript).md)
-* [USER_NAME](AS_USER_NAME(AiScript).md)
-* [USER_USERNAME](USER_USERNAME(AiScript).md)
-* [CUSTOM_EMOJI](CUSTOM_EMOJI(AiScript).md)
+* ✨ [USER_ID](AS_USER_ID(AiScript).md)
+* ✨ [USER_NAME](AS_USER_NAME(AiScript).md)
+* ✨ [USER_USERNAME](USER_USERNAME(AiScript).md)
+* ✨ [CUSTOM_EMOJI](CUSTOM_EMOJI(AiScript).md)
 
 # 4. 관련 문서
 
