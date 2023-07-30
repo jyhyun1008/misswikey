@@ -33,7 +33,8 @@ $[x2 :entrust_1::entrust_2::misskey::entrust_3::entrust_4:]
   * [MFM](MFM.md)
   * [AiScript](AiScript.md)
   * [한국어권 미스키 인스턴스 목록](한국어권_미스키_인스턴스_목록.md)
-  * [피치타르트](피치타르트.md)
+  * [피치타르트](피치타르트.md) 관련
     * [PiScript](PiScript.md)
+    * [피치타룸](피치타룸.md)
 * [삐삐쀼쀼](개발자.md) 관련
 * **서브컬쳐** 관련
