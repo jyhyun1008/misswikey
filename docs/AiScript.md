@@ -11,6 +11,9 @@ $[x2 :aiscript_ai::aiscript_sc::aiscript_ri::aiscript_pt:]
 # 2. 주요 구문
 
 * [연산자](연산자(AiScript).md)
+* [변수 선언 및 자료형](변수_선언_및_자료형(AiScript).md)
+
+* [print문](print문(AiScript).md)
 * [if문](if문(AiScript).md)
 * [for문](for문(AiScript).md)
 * [each문](each문(AiScript).md)
@@ -35,6 +38,8 @@ loop {
 # 3. 내장 함수
 
 ## 3.1 기본 내장 함수
+
+### 3.1.1 Core
 
 ## 3.2 Misskey에서 사용할 수 있는 내장 함수 및 변수
 
