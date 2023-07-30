@@ -19,7 +19,7 @@ $[x2 :entrust_1::entrust_2::misskey::entrust_3::entrust_4:]
 
 연합우주 위키위키는 이미 있으니, 그냥 연합우주 사람들끼리 모여서 편집할 수 있는 잡학 위키나 하나 만들어 보고 싶습니다. 연합우주 정보나, 서브컬쳐 정보가 들어간다면 더 좋구요, 원룸서버 정보 공유를 해도 재미있을 것 같아요.
 
-참여하시려면 깃허브 아이디가 필요하고, 아이디를 다 만드셨다면 [깃허브 저장소](https://github.com/jyhyun1008/weiji/edit/main/README.md)의 이슈 쪽에서 신청해 주시면 됩니다!
+참여하시려면 깃허브 아이디가 필요하고, 아이디를 다 만드셨다면 [깃허브 저장소](https://github.com/jyhyun1008/misswikey/edit/main/README.md)의 이슈 쪽에서 신청해 주시면 됩니다!
 
 # 2. 주요 문서
 
