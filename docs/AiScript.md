@@ -22,3 +22,7 @@ $[x2 :aiscript_ai::aiscript_sc::aiscript_ri::aiscript_pt:]
 * [USER_NAME](AS_USER_NAME(AiScript).md)
 * [USER_USERNAME](USER_USERNAME(AiScript).md)
 * [CUSTOM_EMOJI](CUSTOM_EMOJI(AiScript).md)
+
+# 4. 관련 문서
+
+* [PiScript](PiScript.md) : 아이스크립트의 확장판. [피치타르트](피치타르트.md)에서만 사용할 수 있다.
