@@ -1,5 +1,7 @@
 # 미스(위)키!
 
+$[x2 :entrust_1::entrust_2::misskey::entrust_3::entrust_4:]
+
 # 1. 개요
 
 미스키 플레이를 이용해 구현해 본 위키위키의 예제입니다. 깃허브 저장소를 개설하여 마크다운 문서를 작성하고, 이 문서들을 [AiScript](AiScript.md)를 활용하여 렌더링해 사용합니다. 
