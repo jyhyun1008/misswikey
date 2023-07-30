@@ -2,6 +2,8 @@
 
 # 1. 개요
 
+$[x2 :aiscript_ai::aiscript_sc::aiscript_ri::aiscript_pt:]
+
 > AiScript는, JavaScript상에서 동작하는 경량 스크립트 언어입니다.
 
 **아이스크립트**.
@@ -19,3 +21,4 @@
 * [USER_ID](AS_USER_ID(AiScript).md)
 * [USER_NAME](AS_USER_NAME(AiScript).md)
 * [USER_USERNAME](USER_USERNAME(AiScript).md)
+* [CUSTOM_EMOJI](CUSTOM_EMOJI(AiScript).md)
