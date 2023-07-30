@@ -2,4 +2,4 @@
 
 우선수정을해봅니다!
 
-MFM 테스트 :peachtart:
+[MFM](/MFM.md) 테스트 :peachtart:
