@@ -37,12 +37,14 @@ loop {
 
 # 3. 내장 함수 및 변수
 
+`:` 문자열은 파일 제목에선 `-`(하이픈) 으로 기입해주세요.
+
 ## 3.1 기본 내장 함수 및 변수
 
 ### 3.1.1 Core
 
-* ✨ [Core:v](Core:v.md)
-* 📥 [Core:type](Core:type.md)
+* ✨ [Core:v](Core-v(AiScript).md)
+* 📥 [Core:type](Core-type(AiScript).md)
 
 ## 3.2 Misskey에서 사용할 수 있는 내장 함수 및 변수
 
