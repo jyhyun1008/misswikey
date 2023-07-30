@@ -11,6 +11,26 @@ $[x2 :aiscript_ai::aiscript_sc::aiscript_ri::aiscript_pt:]
 # 2. 주요 구문
 
 * [연산자](연산자(AiScript).md)
+* [if문](if문(AiScript).md)
+* [for문](for문(AiScript).md)
+* [each문](each문(AiScript).md)
+* [loop문](loop문(AiScript).md)
+
+```
+var a = 0
+
+// Error
+// while (a < 5) {
+//   a = a + 1
+// }
+
+loop {
+  a = a + 1
+  if (!(a < 5)) { break }
+}
+
+<: `{a}`  // 5
+```
 
 # 3. 내장 함수
 
