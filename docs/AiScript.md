@@ -13,11 +13,11 @@ $[x2 :aiscript_ai::aiscript_sc::aiscript_ri::aiscript_pt:]
 * [연산자](연산자(AiScript).md)
 * [변수 선언 및 자료형](변수_선언_및_자료형(AiScript).md)
 
-* [print문](print문(AiScript).md)
-* [if문](if문(AiScript).md)
-* [for문](for문(AiScript).md)
-* [each문](each문(AiScript).md)
-* [loop문](loop문(AiScript).md)
+* [print문](print(AiScript).md)
+* [if문](if(AiScript).md)
+* [for문](for(AiScript).md)
+* [each문](each(AiScript).md)
+* [loop문](loop(AiScript).md)
 
 ```
 var a = 0
@@ -100,6 +100,13 @@ loop {
 * 📥 [str.trim()](str.trim()(AiScript).md)
 * 📥 [str.upper()](str.upper()(AiScript).md)
 * 📥 [str.lower()](str.lower()(AiScript).md)
+
+### 3.1.1 Arr
+
+* 📥 [arr.len](arr.len(AiScript).md)
+* 📥 [arr.push()](arr.push()(AiScript).md)
+* 📥 [arr.unshift()](arr.unshift()(AiScript).md)
+* 📥 [arr.pop()](arr.pop()(AiScript).md)
 
 ## 3.2 Misskey에서 사용할 수 있는 내장 함수 및 변수
 
