@@ -45,6 +45,61 @@ loop {
 
 * ✨ [Core:v](Core-v(AiScript).md)
 * 📥 [Core:type](Core-type(AiScript).md)
+* 📥 [Core:to_str](Core-to_str(AiScript).md)
+* 📥 [Core:sleep](Core-sleep(AiScript).md)
+
+### 3.1.1 Util
+
+* 📥 [Util:uuid](Util-uuid(AiScript).md)
+
+### 3.1.1 Json
+
+* 📥 [Json:stringify](Json-stringify(AiScript).md)
+* 📥 [Json:parse](Json-parse(AiScript).md)
+* 📥 [Json:parsable](Json-parsable(AiScript).md)
+
+### 3.1.1 Date
+
+* 📥 [Date:now](Date-now(AiScript).md)
+* 📥 [Date:year](Date-year(AiScript).md)
+* 📥 [Date:month](Date-month(AiScript).md)
+* 📥 [Date:day](Date-day(AiScript).md)
+* 📥 [Date:hour](Date-hour(AiScript).md)
+* 📥 [Date:minute](Date-minute(AiScript).md)
+* 📥 [Date:second](Date-second(AiScript).md)
+* 📥 [Date:parse](Date-parse(AiScript).md)
+
+### 3.1.1 Math
+
+* ✨ [Math:PI](Math-PI(AiScript).md)
+* 📥 [Math:sin](Math-sin(AiScript).md)
+* 📥 [Math:cos](Math-cos(AiScript).md)
+* 📥 [Math:abs](Math-abs(AiScript).md)
+* 📥 [Math:sqrt](Math-sqrt(AiScript).md)
+* 📥 [Math:round](Math-round(AiScript).md)
+* 📥 [Math:ceil](Math-ceil(AiScript).md)
+* 📥 [Math:floor](Math-floor(AiScript).md)
+* 📥 [Math:min](Math-min(AiScript).md)
+* 📥 [Math:max](Math-max(AiScript).md)
+* 📥 [Math:rnd](Math-rnd(AiScript).md)
+* 📥 [Math:gen_rng](Math-gen_rng(AiScript).md)
+
+### 3.1.1 Str
+
+* ✨ [Str:lf](Str-lf(AiScript).md)
+* ✨ [Str:lt](Str-lt(AiScript).md)
+* ✨ [Str:gt](Str-gt(AiScript).md)
+* 📥 [str.to_num()](str.to_num()(AiScript).md)
+* 📥 [str.len](str.len(AiScript).md)
+* 📥 [str.pick()](str.pick()(AiScript).md)
+* 📥 [str.incl()](str.incl()(AiScript).md)
+* 📥 [str.slice()](str.slice()(AiScript).md)
+* 📥 [str.split()](str.split()(AiScript).md)
+* 📥 [str.replace()](str.replace()(AiScript).md)
+* 📥 [str.index_of()](str.index_of()(AiScript).md)
+* 📥 [str.trim()](str.trim()(AiScript).md)
+* 📥 [str.upper()](str.upper()(AiScript).md)
+* 📥 [str.lower()](str.lower()(AiScript).md)
 
 ## 3.2 Misskey에서 사용할 수 있는 내장 함수 및 변수
 
