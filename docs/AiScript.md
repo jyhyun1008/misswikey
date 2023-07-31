@@ -48,17 +48,17 @@ loop {
 * 📥 [Core:to_str](Core-to_str(AiScript).md)
 * 📥 [Core:sleep](Core-sleep(AiScript).md)
 
-### 3.1.1 Util
+### 3.1.2 Util
 
 * 📥 [Util:uuid](Util-uuid(AiScript).md)
 
-### 3.1.1 Json
+### 3.1.3 Json
 
 * 📥 [Json:stringify](Json-stringify(AiScript).md)
 * 📥 [Json:parse](Json-parse(AiScript).md)
 * 📥 [Json:parsable](Json-parsable(AiScript).md)
 
-### 3.1.1 Date
+### 3.1.4 Date
 
 * 📥 [Date:now](Date-now(AiScript).md)
 * 📥 [Date:year](Date-year(AiScript).md)
@@ -69,7 +69,7 @@ loop {
 * 📥 [Date:second](Date-second(AiScript).md)
 * 📥 [Date:parse](Date-parse(AiScript).md)
 
-### 3.1.1 Math
+### 3.1.5 Math
 
 * ✨ [Math:PI](Math-PI(AiScript).md)
 * 📥 [Math:sin](Math-sin(AiScript).md)
@@ -84,7 +84,7 @@ loop {
 * 📥 [Math:rnd](Math-rnd(AiScript).md)
 * 📥 [Math:gen_rng](Math-gen_rng(AiScript).md)
 
-### 3.1.1 Str
+### 3.1.6 Str
 
 * ✨ [Str:lf](Str-lf(AiScript).md)
 * ✨ [Str:lt](Str-lt(AiScript).md)
@@ -101,12 +101,39 @@ loop {
 * 📥 [str.upper()](str.upper()(AiScript).md)
 * 📥 [str.lower()](str.lower()(AiScript).md)
 
-### 3.1.1 Arr
+### 3.1.7 Arr
 
 * 📥 [arr.len](arr.len(AiScript).md)
 * 📥 [arr.push()](arr.push()(AiScript).md)
 * 📥 [arr.unshift()](arr.unshift()(AiScript).md)
 * 📥 [arr.pop()](arr.pop()(AiScript).md)
+* 📥 [arr.shift()](arr.shift()(AiScript).md)
+* 📥 [arr.concat()](arr.concat()(AiScript).md)
+* 📥 [arr.join()](arr.join()(AiScript).md)
+* 📥 [arr.slice()](arr.slice()(AiScript).md)
+* 📥 [arr.incl()](arr.incl()(AiScript).md)
+* 📥 [arr.map()](arr.map()(AiScript).md)
+* 📥 [arr.filter()](arr.filter()(AiScript).md)
+* 📥 [arr.reduce()](arr.reduce()(AiScript).md)
+* 📥 [arr.find()](arr.find()(AiScript).md)
+* 📥 [arr.reverse()](arr.reverse()(AiScript).md)
+* 📥 [arr.copy()](arr.copy()(AiScript).md)
+* 📥 [arr.sort()](arr.sort()(AiScript).md)
+
+### 3.1.8 Obj
+
+* 📥 [Obj:keys()](Obj-keys()(AiScript).md)
+* 📥 [Obj:vals()](Obj-vals()(AiScript).md)
+* 📥 [Obj:kvs()](Obj-kvs()(AiScript).md)
+* 📥 [Obj:get()](Obj-get()(AiScript).md)
+* 📥 [Obj:set()](Obj-set()(AiScript).md)
+* 📥 [Obj:has()](Obj-has()(AiScript).md)
+* 📥 [Obj:copy()](Obj-copy()(AiScript).md)
+
+### 3.1.9 Async
+
+* 📥 [Async:interval()](Async-interval()(AiScript).md)
+* 📥 [Async:timeout()](Async-timeout()(AiScript).md)
 
 ## 3.2 Misskey에서 사용할 수 있는 내장 함수 및 변수
 
