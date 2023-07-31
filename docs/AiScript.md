@@ -151,6 +151,19 @@ loop {
 
 # 4. UI 컴포넌트
 
+* [container](container(AiScript).md)
+* [text](text(AiScript).md)
+* [mfm](mfm(AiScript).md)
+* [textarea](textarea(AiScript).md)
+* [textInput](textInput(AiScript).md)
+* [numberInput](numberInput(AiScript).md)
+* [button](button(AiScript).md)
+* [buttons](buttons(AiScript).md)
+* [switch](switch(AiScript).md)
+* [select](select(AiScript).md)
+* [folder](folder(AiScript).md)
+* [postFormButton](postFormButton(AiScript).md)
+
 # 5. 관련 문서
 
 * [PiScript](PiScript.md) : 아이스크립트의 확장판. [피치타르트](피치타르트.md)에서만 사용할 수 있습니다.
