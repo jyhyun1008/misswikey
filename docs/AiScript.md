@@ -164,8 +164,8 @@ loop {
 * [Ui:C:folder](Ui-C-folder(AiScript).md)
 * [Ui:C:postFormButton](Ui-C-postFormButton(AiScript).md)
 
-* 📥 [Ui:render()](Ui-render().md)
-* 📥 [Ui:get().update()](Ui-get().update().md)
+* 📥 [Ui:render()](Ui-render()(AiScript).md)
+* 📥 [Ui:get().update()](Ui-get().update()(AiScript).md)
 
 # 5. 관련 문서
 
