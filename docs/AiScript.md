@@ -164,6 +164,9 @@ loop {
 * [Ui:C:folder](Ui-C-folder(AiScript).md)
 * [Ui:C:postFormButton](Ui-C-postFormButton(AiScript).md)
 
+* 📥 [Ui:render()](Ui-render().md)
+* 📥 [Ui:get().update()](Ui-get().update().md)
+
 # 5. 관련 문서
 
 * [PiScript](PiScript.md) : 아이스크립트의 확장판. [피치타르트](피치타르트.md)에서만 사용할 수 있습니다.
