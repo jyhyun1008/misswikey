@@ -12,6 +12,7 @@ $[x2 :aiscript_ai::aiscript_sc::aiscript_ri::aiscript_pt:]
 
 * [연산자](연산자(AiScript).md)
 * [변수 선언 및 자료형](변수_선언_및_자료형(AiScript).md)
+* [함수 선언](함수_선언(AiScript).md)
 
 * [print문](print(AiScript).md)
 * [if문](if(AiScript).md)
