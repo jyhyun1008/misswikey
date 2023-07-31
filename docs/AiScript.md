@@ -141,12 +141,12 @@ loop {
 * ✨ [USER_NAME](AS_USER_NAME(AiScript).md)
 * ✨ [USER_USERNAME](USER_USERNAME(AiScript).md)
 * ✨ [CUSTOM_EMOJI](CUSTOM_EMOJI(AiScript).md)
-* 📥 [Mk:dialog()](Mk:dialog()(AiScript).md)
-* 📥 [Mk:confirm()](Mk:confirm()(AiScript).md)
-* 📥 [Mk:api()](Mk:api()(AiScript).md)
-* 📥 [Mk:save()](Mk:save()(AiScript).md)
-* 📥 [Mk:load()](Mk:load()(AiScript).md)
-* 📥 [Mk:url()](Mk:url()(AiScript).md)
+* 📥 [Mk:dialog()](Mk-dialog()(AiScript).md)
+* 📥 [Mk:confirm()](Mk-confirm()(AiScript).md)
+* 📥 [Mk:api()](Mk-api()(AiScript).md)
+* 📥 [Mk:save()](Mk-save()(AiScript).md)
+* 📥 [Mk:load()](Mk-load()(AiScript).md)
+* 📥 [Mk:url()](Mk-url()(AiScript).md)
 
 # 4. UI 컴포넌트
 
