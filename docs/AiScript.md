@@ -141,7 +141,15 @@ loop {
 * ✨ [USER_NAME](AS_USER_NAME(AiScript).md)
 * ✨ [USER_USERNAME](USER_USERNAME(AiScript).md)
 * ✨ [CUSTOM_EMOJI](CUSTOM_EMOJI(AiScript).md)
+* 📥 [Mk:dialog()](Mk:dialog()(AiScript).md)
+* 📥 [Mk:confirm()](Mk:confirm()(AiScript).md)
+* 📥 [Mk:api()](Mk:api()(AiScript).md)
+* 📥 [Mk:save()](Mk:save()(AiScript).md)
+* 📥 [Mk:load()](Mk:load()(AiScript).md)
+* 📥 [Mk:url()](Mk:url()(AiScript).md)
 
-# 4. 관련 문서
+# 4. UI 컴포넌트
+
+# 5. 관련 문서
 
 * [PiScript](PiScript.md) : 아이스크립트의 확장판. [피치타르트](피치타르트.md)에서만 사용할 수 있습니다.
