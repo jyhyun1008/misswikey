@@ -169,6 +169,9 @@ $[x3 :piscript:]
 * [Ui:C:postFormButton](Ui-C-postFormButton(AiScript).md)
 * [Ui:C:customChart](Ui-C-customChart(PiScript).md) 🍑
 
+* [Ui:render()](Ui-render().md)
+* [Ui:get().update()](Ui-get().update().md)
+
 # 5. 관련 문서
 
 * [AiScript](AiScript.md) : 파이스크립트의 원본.
