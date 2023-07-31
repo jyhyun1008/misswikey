@@ -29,19 +29,19 @@ $[x2 :piscript:]
 ### 3.1.1 Core
 
 * ✨ [Core:v](Core-v(AiScript).md)
-* 📥 [Core:type](Core-type(AiScript).md)
-* 📥 [Core:to_str](Core-to_str(AiScript).md)
-* 📥 [Core:sleep](Core-sleep(AiScript).md)
+* 📥 [Core:type()](Core-type()(AiScript).md)
+* 📥 [Core:to_str()](Core-to_str()(AiScript).md)
+* 📥 [Core:sleep()](Core-sleep()(AiScript).md)
 
 ### 3.1.2 Util
 
-* 📥 [Util:uuid](Util-uuid(AiScript).md)
+* 📥 [Util:uuid()](Util-uuid()(AiScript).md)
 
 ### 3.1.3 Json
 
-* 📥 [Json:stringify](Json-stringify(AiScript).md)
-* 📥 [Json:parse](Json-parse(AiScript).md)
-* 📥 [Json:parsable](Json-parsable(AiScript).md)
+* 📥 [Json:stringify()](Json-stringify()(AiScript).md)
+* 📥 [Json:parse()](Json-parse()(AiScript).md)
+* 📥 [Json:parsable()](Json-parsable()(AiScript).md)
 
 ### 3.1.4 Date
 
