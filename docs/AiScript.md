@@ -45,45 +45,45 @@ loop {
 ### 3.1.1 Core
 
 * ✨ [Core:v](Core-v(AiScript).md)
-* 📥 [Core:type](Core-type(AiScript).md)
-* 📥 [Core:to_str](Core-to_str(AiScript).md)
-* 📥 [Core:sleep](Core-sleep(AiScript).md)
+* 📥 [Core:type()](Core-type()(AiScript).md)
+* 📥 [Core:to_str()](Core-to_str()(AiScript).md)
+* 📥 [Core:sleep()](Core-sleep()(AiScript).md)
 
 ### 3.1.2 Util
 
-* 📥 [Util:uuid](Util-uuid(AiScript).md)
+* 📥 [Util:uuid()](Util-uuid()(AiScript).md)
 
 ### 3.1.3 Json
 
-* 📥 [Json:stringify](Json-stringify(AiScript).md)
-* 📥 [Json:parse](Json-parse(AiScript).md)
-* 📥 [Json:parsable](Json-parsable(AiScript).md)
+* 📥 [Json:stringify()](Json-stringify()(AiScript).md)
+* 📥 [Json:parse()](Json-parse()(AiScript).md)
+* 📥 [Json:parsable()](Json-parsable()(AiScript).md)
 
 ### 3.1.4 Date
 
-* 📥 [Date:now](Date-now(AiScript).md)
-* 📥 [Date:year](Date-year(AiScript).md)
-* 📥 [Date:month](Date-month(AiScript).md)
-* 📥 [Date:day](Date-day(AiScript).md)
-* 📥 [Date:hour](Date-hour(AiScript).md)
-* 📥 [Date:minute](Date-minute(AiScript).md)
-* 📥 [Date:second](Date-second(AiScript).md)
-* 📥 [Date:parse](Date-parse(AiScript).md)
+* 📥 [Date:now()](Date-now()(AiScript).md)
+* 📥 [Date:year()](Date-year()(AiScript).md)
+* 📥 [Date:month()](Date-month()(AiScript).md)
+* 📥 [Date:day()](Date-day()(AiScript).md)
+* 📥 [Date:hour()](Date-hour()(AiScript).md)
+* 📥 [Date:minute()](Date-minute()(AiScript).md)
+* 📥 [Date:second()](Date-second()(AiScript).md)
+* 📥 [Date:parse()](Date-parse()(AiScript).md)
 
 ### 3.1.5 Math
 
 * ✨ [Math:PI](Math-PI(AiScript).md)
-* 📥 [Math:sin](Math-sin(AiScript).md)
-* 📥 [Math:cos](Math-cos(AiScript).md)
-* 📥 [Math:abs](Math-abs(AiScript).md)
-* 📥 [Math:sqrt](Math-sqrt(AiScript).md)
-* 📥 [Math:round](Math-round(AiScript).md)
-* 📥 [Math:ceil](Math-ceil(AiScript).md)
-* 📥 [Math:floor](Math-floor(AiScript).md)
-* 📥 [Math:min](Math-min(AiScript).md)
-* 📥 [Math:max](Math-max(AiScript).md)
-* 📥 [Math:rnd](Math-rnd(AiScript).md)
-* 📥 [Math:gen_rng](Math-gen_rng(AiScript).md)
+* 📥 [Math:sin()](Math-sin()(AiScript).md)
+* 📥 [Math:cos()](Math-cos()(AiScript).md)
+* 📥 [Math:abs()](Math-abs()(AiScript).md)
+* 📥 [Math:sqrt()](Math-sqrt()(AiScript).md)
+* 📥 [Math:round()](Math-round()(AiScript).md)
+* 📥 [Math:ceil()](Math-ceil()(AiScript).md)
+* 📥 [Math:floor()](Math-floor()(AiScript).md)
+* 📥 [Math:min()](Math-min()(AiScript).md)
+* 📥 [Math:max()](Math-max()(AiScript).md)
+* 📥 [Math:rnd()](Math-rnd()(AiScript).md)
+* 📥 [Math:gen_rng()](Math-gen_rng()(AiScript).md)
 
 ### 3.1.6 Str
 
