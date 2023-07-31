@@ -151,18 +151,18 @@ loop {
 
 # 4. UI 컴포넌트
 
-* [container](container(AiScript).md)
-* [text](text(AiScript).md)
-* [mfm](mfm(AiScript).md)
-* [textarea](textarea(AiScript).md)
-* [textInput](textInput(AiScript).md)
-* [numberInput](numberInput(AiScript).md)
-* [button](button(AiScript).md)
-* [buttons](buttons(AiScript).md)
-* [switch](switch(AiScript).md)
-* [select](select(AiScript).md)
-* [folder](folder(AiScript).md)
-* [postFormButton](postFormButton(AiScript).md)
+* [Ui:C:container](Ui-C-container(AiScript).md)
+* [Ui:C:text](Ui-C-text(AiScript).md)
+* [Ui:C:mfm](Ui-C-mfm(AiScript).md)
+* [Ui:C:textarea](Ui-C-textarea(AiScript).md)
+* [Ui:C:textInput](Ui-C-textInput(AiScript).md)
+* [Ui:C:numberInput](Ui-C-numberInput(AiScript).md)
+* [Ui:C:button](Ui-C-button(AiScript).md)
+* [Ui:C:buttons](Ui-C-buttons(AiScript).md)
+* [Ui:C:switch](Ui-C-switch(AiScript).md)
+* [Ui:C:select](Ui-C-select(AiScript).md)
+* [Ui:C:folder](Ui-C-folder(AiScript).md)
+* [Ui:C:postFormButton](Ui-C-postFormButton(AiScript).md)
 
 # 5. 관련 문서
 
