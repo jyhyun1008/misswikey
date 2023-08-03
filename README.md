@@ -27,6 +27,8 @@ $[x2 :entrust_1::entrust_2::misskey::entrust_3::entrust_4:]
 
 * [예제](예제.md)
 * [위키 편집 가이드](위키_편집_가이드.md)
+* [연합우주](연합우주.md) 관련
+  * [From the Observable Fediverse](from_the_observable_fediverse.md)
 * [미스키](미스키.md) 관련
   * [MFM](MFM.md)
   * [AiScript](AiScript.md)
