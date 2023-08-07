@@ -14,6 +14,18 @@ $[x2 :entrust_1::entrust_2::misskey::entrust_3::entrust_4:]
 ## 1.2 할 수 ~~없는~~ 것
 
 * 이미지/동영상 삽입: 코드 구현 및 피치타르트 운영에 대한 저의 신념 상 무리무리...
+* 표
+
+<table>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+  <tr>
+    <td>Jane</td>
+    <td>Doe</td>
+  </tr>
+</table>
 
 ## 1.3 앞으로 만들어가려고 하는 공간
 
