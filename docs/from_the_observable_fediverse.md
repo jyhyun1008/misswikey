@@ -2,6 +2,29 @@
 
 # 1. 개요
 
+[재연](관리자.md)이 작사하고 작곡한 한국어권 연합 우주 비공식 테마곡입니다. 카사네 테토가 불렀습니다.
+
+## 1.1 크레딧
+
+* Main Producer: @hyun1008@i.peacht.art
+* Music: @hyun1008@i.peacht.art
+* Lyrics inspired by: @jarm@qdon.space
+* Tune(Kasane Teto): @pijon@buttersc.one
+* Character Design:
+  * @atLuminon@stella.place
+  * @hyun1008@i.peacht.art
+  * @lapy@k.lapy.link
+  * @Lilymorpho@cremebrul.ee
+  * @NAES@madost.one
+  * @Native@pointless.chat
+  * @pijon@buttersc.one
+  * @pyan@stella.place
+  * @silphsring@qdon.space
+  * @thylakoid00@planet.moe
+* Paint: @hyun1008@i.peacht.art
+* Thanks to: 
+* Bg: pixabay
+
 # 2. 가사
 
 푸른 하늘에 눈이 부시고
