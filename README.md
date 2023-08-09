@@ -6,7 +6,7 @@
 | *[연합우주](연합우주.md) 관련 | *[미스키](미스키.md) · *[마스토돈](마스토돈.md) · *[한국어권 미스키 인스턴스 목록](한국어권_미스키_인스턴스_목록.md) · *[한국어권 마스토돈 인스턴스 목록](한국어권_마스토돈_인스턴스_목록.md)|
 | 운영 | *[관리자](미스위키_관리자.md) · *[기여하기](기여하기.md) |
 
-$[x2 :entrust_1::entrust_2::misskey::entrust_3::entrust_4:]
+:entrust_1::entrust_2::misskey::entrust_3::entrust_4:
 
 # 1. 개요
 
@@ -52,3 +52,7 @@ $[x2 :entrust_1::entrust_2::misskey::entrust_3::entrust_4:]
     * [보컬로이드](보컬로이드.md)
     * [CeVIO](CeVIO.md)
     * [Synthesizer V](Synthesizer_V.md)
+* **밈** 관련
+  * [우리 식당 정상 영업합니다](우리_식당_정상_영업합니다.md)
+  * [기도할 수 있는데 왜 걱정하십니까](기도할_수_있는데_왜_걱정하십니까.md)
+  * [모든 것을 microsoft에 맡기기](모든_것을_microsoft에_맡기기.md)
